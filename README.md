@@ -26,23 +26,23 @@ Using the text we have to create a model which will be able to predict the given
 
 # Road map
 
-### 22.Import all the required libraries, then import the language detection dataset
+#### Import all the required libraries, then import the language detection dataset
 
-### Separating Independent and Dependent features
+#### Separating Independent and Dependent features
 
-### Label Encoding
+#### Label Encoding
 
-### Text Preprocessing
+#### Text Preprocessing
 
-### Bag of Words
+#### Bag of Words
 
-### Train Test Splitting
+#### Train Test Splitting
 
-### Model Training and Prediction
+#### Model Training and Prediction
 
-### Model Evaluation
+#### Model Evaluation
 
-### Predicting with some more data
+#### Predicting with some more data
 
 # Conclusion
 This project would have definitely given a diagram of basic NLP programs. We need to analyze the data and preprocess it accordingly. A bag of words model becomes a way of representing your text data. Text extraction and vectorization are important steps for good predictions in NLP. Naive Bayes always proves to be a better model in such text classification problems, hence more accurate results we get.
